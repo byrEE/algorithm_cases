@@ -1,3 +1,3 @@
-h1 This folder is about some algorithms of leetcode and offers
+# This folder is about some algorithms of leetcode and offers
 
-h1 language is java
+# language is *java8
